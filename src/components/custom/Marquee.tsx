@@ -7,7 +7,7 @@ export function Marquee() {
   return (
     <section className="relative bg-black py-8 overflow-hidden">
       <div className="flex items-center justify-center">
-        <div className="inline-flex items-center bg-transparent border-2 border-white/30 rounded-full px-6 py-3 overflow-hidden">
+        <div className="inline-flex items-center bg-black border-2 border-white/30 rounded-full px-6 py-3 overflow-hidden">
           {/* Globe Icon - Left */}
           <div className="flex-shrink-0 mr-4">
             <div className="w-10 h-10 rounded-full border border-white flex items-center justify-center">

@@ -38,7 +38,7 @@ export function NewToMercyLifeSection() {
             
             <a 
               href="/welcome"
-              className="inline-flex items-center bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-white/90 transition-colors btn-hover"
+              className="inline-flex items-center bg-white text-white px-8 py-4 rounded-full font-bold hover:bg-white/90 transition-colors btn-hover"
             >
               Plan Your Visit
               <ArrowRight className="w-5 h-5 ml-2" />

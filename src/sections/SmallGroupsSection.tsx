@@ -11,13 +11,13 @@ const groups = [
     name: 'Marriage & Family',
     description: 'Grow together with other married couples.',
     meeting: 'Thursdays at 7:00 PM',
-    location: 'Dr. Phillips Campus',
+    location: 'Dominion Temple',
   },
   {
     name: 'Men\'s Group',
     description: 'Build brotherhood and grow in faith together.',
     meeting: 'Saturdays at 8:00 AM',
-    location: 'Oak Ridge Campus',
+    location: 'Dominion Temple',
   },
 ];
 

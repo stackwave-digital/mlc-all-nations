@@ -41,8 +41,8 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 py-16">
         {/* Logo */}
         <div className="flex justify-center mb-12">
-          <div className="w-16 h-16 rounded-full border-2 border-white flex items-center justify-center">
-            <span className="text-white font-bold text-2xl">N</span>
+          <div className="w-16 h-16 rounded-full border-2 border-white flex items-center justify-center bg-white/5">
+            <img src="/logo.png" alt="Logo" className="w-12 h-12 object-contain" />
           </div>
         </div>
 
@@ -185,7 +185,7 @@ export function Footer() {
               href="https://www.facebook.com/weareMercyLifechurch"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-black transition-all"
+              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-white transition-all"
             >
               <Facebook className="w-5 h-5" />
             </a>
@@ -193,7 +193,7 @@ export function Footer() {
               href="https://www.instagram.com/weareMercyLifechurch/"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-black transition-all"
+              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-white transition-all"
             >
               <Instagram className="w-5 h-5" />
             </a>
@@ -201,7 +201,7 @@ export function Footer() {
               href="https://www.youtube.com/channel/UCuwZK0Fj3Tks6tXmniPGRmA"
               target="_blank"
               rel="noopener noreferrer"
-              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-black transition-all"
+              className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white hover:text-white transition-all"
             >
               <Youtube className="w-5 h-5" />
             </a>

@@ -21,7 +21,7 @@ export function KidsMinistrySection() {
           <div className="absolute bottom-0 right-0 w-40 h-40 bg-gradient-to-tl from-blue-200 to-transparent rounded-full translate-x-1/2 translate-y-1/2 opacity-50" />
           
           <div className="relative z-10">
-            <h2 className="text-black text-2xl md:text-3xl font-bold mb-4">
+            <h2 className="text-white text-2xl md:text-3xl font-bold mb-4">
               Do you have a heart to empower our children to be followers of Jesus and Kingdom Builders?
             </h2>
             
